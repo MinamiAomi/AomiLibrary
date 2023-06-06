@@ -3,4 +3,17 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Bitset.h">
+      <Filter>AomiLibrary</Filter>
+    </ClInclude>
+    <ClInclude Include="Assert.h">
+      <Filter>AomiLibrary</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="AomiLibrary">
+      <UniqueIdentifier>{9991c963-9a62-4e31-a0d4-c6c69b747b3d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
 </Project>
